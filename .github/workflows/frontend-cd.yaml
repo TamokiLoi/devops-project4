@@ -1,4 +1,4 @@
-name: Frontend Node js CD
+name: Frontend Continuous Deployment
 
 on:
   workflow_dispatch:  # Allow manual triggering
